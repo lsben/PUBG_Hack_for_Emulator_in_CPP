@@ -14,7 +14,9 @@ YouTube Video ( [https://www.youtube.com/watch?v=e4uD5H0F_YY](https://www.youtub
 ## Tutorial
 YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH) )
 
-[![1- PUBG 1.6 Hack C++ (Open Source), Preparing Application](https://img.youtube.com/vi/mrmcgHi0ePM/default.jpg)](http://www.youtube.com/mrmcgHi0ePM "1- PUBG 1.6 Hack C++ (Open Source), Preparing Application")
+| # | Video | Title |
+| --- | --- | --- |
+| 1 | [![1- PUBG 1.6 Hack C++ (Open Source), Preparing Application](https://img.youtube.com/vi/mrmcgHi0ePM/default.jpg)](http://www.youtube.com/mrmcgHi0ePM "1- PUBG 1.6 Hack C++ (Open Source), Preparing Application") | PUBG 1.6 Hack C++ (Open Source), Preparing Application |
 [![2- Working With SFML Library (Draw Line)](https://img.youtube.com/vi/Hkdrlz2t9Cc/default.jpg)](http://www.youtube.com/Hkdrlz2t9Cc "2- Working With SFML Library (Draw Line)")
 [![3- SFML Draw Lines, Circles and Load Font](https://img.youtube.com/vi/tBmlG7-4PQo/default.jpg)](http://www.youtube.com/tBmlG7-4PQo "3- SFML Draw Lines, Circles and Load Font")
 [![4- SFML Draw Text and Rectangle and their origins and backgrounds](https://img.youtube.com/vi/vr2W7Vtk8NM/default.jpg)](http://www.youtube.com/vr2W7Vtk8NM "4- SFML Draw Text and Rectangle and their origins and backgrounds")
