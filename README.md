@@ -31,6 +31,14 @@ YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8
 * There are many ways to avoid ban but I will not talk about them in this tutorial
 * Using this code as it is without any protection, may cause ban for your account and it is only on your responsibility
 
+## My work
+* Radar points for enemies
+* Different color for each player (in the same team) for enemy line and radar point
+* Menu controller for every single item to control its appearence
+* Different color for each item type (weapons, vehicles, throwables ... etc.)
+* Fix issues to perform speed and smooth working for the application
+* And more
+
 ## Working on
 * Dead player box items list
 * Car fuel ans health
