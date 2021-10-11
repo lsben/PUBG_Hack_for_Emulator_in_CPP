@@ -33,6 +33,7 @@ YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8
 
 ## My work
 * Radar points for enemies
+* Updating offsets for latest version of the game
 * Different color for each player (in the same team) for enemy line and radar point
 * Menu controller for every single item to control its appearence
 * Different color for each item type (weapons, vehicles, throwables ... etc.)
