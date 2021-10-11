@@ -47,5 +47,5 @@ YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8
 * Writing memory (Fast landind speed, Auto aim, Magic bullet, Car speed, Car fly, High jump and Fast running)
 
 ## References
-@github/atiksoftware
-
+@[https://www.github.com/atiksoftware](github/atiksoftware)
+@[https://www.unknowncheats.me/](www.unknowncheats.me)
