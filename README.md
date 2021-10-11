@@ -31,3 +31,11 @@ YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8
 * There are many ways to avoid ban but I will not talk about them in this tutorial
 * Using this code as it is without any protection, may cause ban for your account and it is only on your responsibility
 
+## Working on
+* Dead player box items list
+* Car fuel ans health
+* Writing memory (Fast landind speed, Auto aim, Magic bullet, Car speed, Car fly, High jump and Fast running)
+
+## References
+@github/atiksoftware
+
