@@ -9,23 +9,23 @@ Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 
 YouTube Video ( [https://www.youtube.com/watch?v=e4uD5H0F_YY](https://www.youtube.com/watch?v=e4uD5H0F_YY) )
 
-[![PUBG 1.6 Hack : PUBG Cororna Hack ببجي كورونا هاك](https://img.youtube.com/vi/e4uD5H0F_YY/0.jpg)](http://www.youtube.com/e4uD5H0F_YY "PUBG 1.6 Hack : PUBG Cororna Hack ببجي كورونا هاك")
+[![PUBG 1.6 Hack : PUBG Cororna Hack ببجي كورونا هاك](https://img.youtube.com/vi/e4uD5H0F_YY/0.jpg)](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "PUBG 1.6 Hack : PUBG Cororna Hack ببجي كورونا هاك")
 
 ## Tutorial
 YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH) )
 
 | # | Video | Title |
 | --- | --- | --- |
-| 1 | [![1- PUBG 1.6 Hack C++ (Open Source), Preparing Application](https://img.youtube.com/vi/mrmcgHi0ePM/default.jpg)](http://www.youtube.com/mrmcgHi0ePM "1- PUBG 1.6 Hack C++ (Open Source), Preparing Application") | PUBG 1.6 Hack C++ (Open Source), Preparing Application |
-| 2 | [![2- Working With SFML Library (Draw Line)](https://img.youtube.com/vi/Hkdrlz2t9Cc/default.jpg)](http://www.youtube.com/Hkdrlz2t9Cc "2- Working With SFML Library (Draw Line)") | Working With SFML Library (Draw Line) |
-| 3 | [![3- SFML Draw Lines, Circles and Load Font](https://img.youtube.com/vi/tBmlG7-4PQo/default.jpg)](http://www.youtube.com/tBmlG7-4PQo "3- SFML Draw Lines, Circles and Load Font") | SFML Draw Lines, Circles and Load Font |
-| 4 | [![4- SFML Draw Text and Rectangle and their origins and backgrounds](https://img.youtube.com/vi/vr2W7Vtk8NM/default.jpg)](http://www.youtube.com/vr2W7Vtk8NM "4- SFML Draw Text and Rectangle and their origins and backgrounds") | SFML Draw Text and Rectangle and their origins and backgrounds |
-| 5 | [![5- SFML Load and Play Sound](https://img.youtube.com/vi/0y-qjlnWowU/default.jpg)](http://www.youtube.com/0y-qjlnWowU "5- SFML Load and Play Sound") | SFML Load and Play Sound |
-| 6 | [![6- Memory Manager (Install and Connect to KProcessHacker Driver)](https://img.youtube.com/vi/SZUocHyjn2k/default.jpg)](http://www.youtube.com/SZUocHyjn2k "6- Memory Manager (Install and Connect to KProcessHacker Driver)") | Memory Manager (Install and Connect to KProcessHacker Driver) |
-| 7 | [![7- View Matrix and Scan Entity List](https://img.youtube.com/vi/ZMF5mHmHkDI/default.jpg)](http://www.youtube.com/ZMF5mHmHkDI "7- View Matrix and Scan Entity List") | View Matrix and Scan Entity List |
-| 8 | [![8- Draw All Items](https://img.youtube.com/vi/3sFRUL5IVZU/default.jpg)](http://www.youtube.com/3sFRUL5IVZU "8- Draw All Items") | Draw All Items |
-| 9 | [![9- Draw Player Line and Info](https://img.youtube.com/vi/2GoG9du_YmA/default.jpg)](http://www.youtube.com/2GoG9du_YmA "9- Draw Player Line and Info") | Draw Player Line and Info |
-| 10 | [![10- Draw Player Bone and Skeleton](https://img.youtube.com/vi/EpG6rbjDm4g/default.jpg)](http://www.youtube.com/EpG6rbjDm4g "10- Draw Player Bone and Skeleton") | Draw Player Bone and Skeleton |
+| 1 | [![1- PUBG 1.6 Hack C++ (Open Source), Preparing Application](https://img.youtube.com/vi/mrmcgHi0ePM/default.jpg)](https://www.youtube.com/watch?v=mrmcgHi0ePM&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "1- PUBG 1.6 Hack C++ (Open Source), Preparing Application") | PUBG 1.6 Hack C++ (Open Source), Preparing Application |
+| 2 | [![2- Working With SFML Library (Draw Line)](https://img.youtube.com/vi/Hkdrlz2t9Cc/default.jpg)](https://www.youtube.com/watch?v=Hkdrlz2t9Cc&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "2- Working With SFML Library (Draw Line)") | Working With SFML Library (Draw Line) |
+| 3 | [![3- SFML Draw Lines, Circles and Load Font](https://img.youtube.com/vi/tBmlG7-4PQo/default.jpg)](https://www.youtube.com/watch?v=tBmlG7-4PQo&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "3- SFML Draw Lines, Circles and Load Font") | SFML Draw Lines, Circles and Load Font |
+| 4 | [![4- SFML Draw Text and Rectangle and their origins and backgrounds](https://img.youtube.com/vi/vr2W7Vtk8NM/default.jpg)](https://www.youtube.com/watch?v=vr2W7Vtk8NM&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "4- SFML Draw Text and Rectangle and their origins and backgrounds") | SFML Draw Text and Rectangle and their origins and backgrounds |
+| 5 | [![5- SFML Load and Play Sound](https://img.youtube.com/vi/0y-qjlnWowU/default.jpg)](https://www.youtube.com/watch?v=0y-qjlnWowU&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "5- SFML Load and Play Sound") | SFML Load and Play Sound |
+| 6 | [![6- Memory Manager (Install and Connect to KProcessHacker Driver)](https://img.youtube.com/vi/SZUocHyjn2k/default.jpg)](https://www.youtube.com/watch?v=SZUocHyjn2k&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "6- Memory Manager (Install and Connect to KProcessHacker Driver)") | Memory Manager (Install and Connect to KProcessHacker Driver) |
+| 7 | [![7- View Matrix and Scan Entity List](https://img.youtube.com/vi/ZMF5mHmHkDI/default.jpg)](https://www.youtube.com/watch?v=ZMF5mHmHkDI&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "7- View Matrix and Scan Entity List") | View Matrix and Scan Entity List |
+| 8 | [![8- Draw All Items](https://img.youtube.com/vi/3sFRUL5IVZU/default.jpg)](https://www.youtube.com/watch?v=3sFRUL5IVZU&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "8- Draw All Items") | Draw All Items |
+| 9 | [![9- Draw Player Line and Info](https://img.youtube.com/vi/2GoG9du_YmA/default.jpg)](https://www.youtube.com/watch?v=2GoG9du_YmA&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "9- Draw Player Line and Info") | Draw Player Line and Info |
+| 10 | [![10- Draw Player Bone and Skeleton](https://img.youtube.com/vi/EpG6rbjDm4g/default.jpg)](https://www.youtube.com/watch?v=EpG6rbjDm4g&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "10- Draw Player Bone and Skeleton") | Draw Player Bone and Skeleton |
 
 ## About
 * This is for educational purposes only and I don't encorage using hacking
