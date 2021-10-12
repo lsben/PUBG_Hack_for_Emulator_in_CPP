@@ -3,7 +3,7 @@
 PUBG ESP Hack for Emulator using C++ code.\
 Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 
-* **Offecial Site** : Zero One Billion ( [www.01000000000.com](https://www.01000000000.com) )
+* **official Site** : Zero One Billion ( [www.01000000000.com](https://www.01000000000.com) )
 * **Auther** : Programmer / Ayman
 * **E-mail** : [info@01000000000.com](mailto:info@01000000000.com)
 
@@ -45,8 +45,8 @@ YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8
 
 ## Working on
 * Dead player box and airdrop items list
-* Car fuel ans health
-* Writing memory (Fast landind speed, Auto aim, Magic bullet, Car speed, Car fly, High jump and Fast running)
+* Car fuel and health
+* Writing memory (Fast landing speed, Auto aim, Magic bullet, Car speed, Car fly, High jump and Fast running)
 
 ## References
 @[github/atiksoftware](https://github.com/atiksoftware/pubg_mobile_memory_hacking_examples)\
