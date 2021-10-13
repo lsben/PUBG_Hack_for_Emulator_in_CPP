@@ -6,6 +6,8 @@ Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 * **official Site** : Zero One Billion ( [www.01000000000.com](https://www.01000000000.com) )
 * **Auther** : Programmer / Ayman
 * **E-mail** : [info@01000000000.com](mailto:info@01000000000.com)
+* **Tutorial** : [YouTube](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH)
+* **Discord** : [Discord](https://discord.gg/ZP7fAupu)
 
 YouTube Video ( [https://www.youtube.com/watch?v=e4uD5H0F_YY](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH) )
 
