@@ -387,7 +387,7 @@ void ESP::scanEntityList()
 			g_pOverlay->window.draw(itemName);
 		}
 		// PLAYERS
-		else if (strstr(entityName.c_str(), "BP_PlayerPawn"))
+		else if (strstr(entityName.c_str(), "BP_PlayerPawn") || strstr(entityName.c_str(), "BP_PlayerCharacter") || strstr(entityName.c_str(), "PlanET_FakePlayer"))
 		{
 			entityWorld = g_pMemoryManager->dRead(entityAddv + ofEntityWorld);
 
